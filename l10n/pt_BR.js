@@ -10,7 +10,7 @@ OC.L10N.register(
     "Saved" : "Salvo",
     "No such group" : "Não existe esse grupo",
     "The email address you entered is not valid" : "O email que você forneceu não é válido",
-    "Verify your %s registration request" : "Varificar o seu pedido de registro %s",
+    "Verify your %s registration request" : "Verificar o seu pedido de registro %s",
     "A problem occurred sending email, please contact your administrator." : "Ocorreu um problema ao enviar um e-mail, por favor, contate o administrador.",
     "A new user \"%s\" has created an account on %s" : "Um novo usuário \"%s\" criou uma conta em %s",
     "A user has already taken this email, maybe you already have an account?" : "Um usuário já está usando este email, talvez você já possua uma conta?",
